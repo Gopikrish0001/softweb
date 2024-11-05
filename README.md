@@ -233,7 +233,7 @@ home.html
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY ROHITH T (212223040173)</center>
+      <center>DESIGNED AND DEVELOPED BY GOPIKRISHNAN M (24900256)</center>
     </footer>
   </body>
 </html>
@@ -465,7 +465,7 @@ product.html
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY ROHITH T (212223040173)</center>
+      <center>DESIGNED AND DEVELOPED BY GOPIKRISHNAN M (24900256)</center>
     </footer>
   </body>
 </html>
@@ -631,15 +631,15 @@ people.html
       <div class="image">
         <table cellspacing="65" >
           <tr align="center">
-            <td><img src="IMG-20230703-WA0004.jpg" /></td>
+            <td><img src="WhatsApp Image 2024-08-09 at 11.59.05_d42ca69a (2).jpg" /></td>
             <td><img src="vijay.jpeg"></td>
-            <td><img src="ani.jpeg" /></td>
-            <td><img src="loki.jpeg" /></td>
-            <td><img src="suriya.jpeg" /></td>
-            <td><img src="sk.jpeg" /></td>
+            <td><img src="anirudh.jpeg" /></td>
+            <td><img src="lokesh.jpeg" /></td>
+            <td><img src="surya.jpeg" /></td>
+            <td><img src="SIVSKARTHI.jpeg" /></td>
           </tr>
           <tr align="center" class="space">
-            <th>ROHITH</th>
+            <th>GOPIKRISHNAN</th>
             <th>VIJAY</th>
             <th>ANIRUDH</th>
             <th>LOKESH KANAGARAJ</th>
@@ -658,7 +658,7 @@ people.html
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY ROHITH T (212223040173)</center>
+      <center>DESIGNED AND DEVELOPED BY GOPIKRISHNAN M (24900256)</center>
     </footer>
   </body>
 </html>
@@ -895,26 +895,25 @@ contact.html
         <div class="box-2">
           <h2>Contact Information</h2>
           <p>
-            <span>Address</span> :Building,No:3,opp panagal park,Thyagaraya Nagar, Chennai, Tamil Nadu 600091
+            <span>Address</span> :no.21 kallapadi post gudiyatham tk vellore dt pin 632 602
           </p>
-          <p><span>Email</span> : dracky1215@gmail.com</p>
-          <p><span>Phone</span> : 8459622386</p>
+          <p><span>Email</span> : akashmurugan2k@gamil.com</p>
+          <p><span>Phone</span> : 8940485879</p>
         </div>
       </div>
     </div>
     <footer>
-      <center>DESIGNED AND DEVELOPED BY ROHITH T (212223040173)</center>
+      <center>DESIGNED AND DEVELOPED BY GOPIKRISHNAN M (24900256)</center>
     </footer>
   </body>
 </html>
 ```
 
-
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-14 114356.png>)
-![alt text](<Screenshot 2024-05-14 114415.png>)
-![alt text](<Screenshot 2024-05-14 114449.png>)
-![alt text](<Screenshot 2024-05-14 114507.png>)
+![Screenshot (32)](https://github.com/user-attachments/assets/f524359d-5387-45a6-8bd3-e53bccbdcb99)
+![Screenshot (33)](https://github.com/user-attachments/assets/31f7ccaa-6b36-4947-96c0-7707e77088b7)
+![Screenshot (34)](https://github.com/user-attachments/assets/9eea6dc8-e8e3-4108-999b-845db47c47a2)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
